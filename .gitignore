@@ -1,0 +1,20 @@
+# Ignore virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+
+# VS Code files
+.vscode/
+
+# Cache / temporary files
+*.log
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Output data (except key files)
+/data/*.csv
+!/data/features.csv
+!/data/processed_dataset.csv
