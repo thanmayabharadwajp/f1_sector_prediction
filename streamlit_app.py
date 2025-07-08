@@ -78,8 +78,8 @@ if st.session_state.lap_index < total_laps:
 
     # === Metrics Row
     col1, col2, col3 = st.columns(3)
-    col1.metric("Predicted Sector2", f"{predicted:.3f}s")
-    col2.metric("Actual Sector2", f"{actual:.3f}s")
+    col1.metric("Predicted Sector 2", f"{predicted:.3f}s")
+    col2.metric("Actual Sector 2", f"{actual:.3f}s")
     col3.metric("Δ (Error)", f"{delta:+.3f}s", delta_color="inverse")
 
     # === Lap info
