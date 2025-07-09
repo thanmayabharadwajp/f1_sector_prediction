@@ -1,9 +1,6 @@
 # 🏁 F1 Sector Time Prediction Dashboard
 
-This project uses **machine learning** to predict **Sector 2 lap times** in Formula 1 races based on historical FastF1 telemetry data. Built with **Streamlit** for real-time visualization.
-
-![Demo Screenshot](models/scatter_plot.png)
-
+This project uses machine learning to predict Sector 2 lap times in Formula 1 races based on historical FastF1 telemetry data. Built with Streamlit for real-time visualization.
 ---
 
 ## 🚦 Features
