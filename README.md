@@ -30,6 +30,6 @@ The model uses:
 - Previous sector times and lap time
 
 To predict:
-- `Sector2Time`
+- Sector2Time
 
 ---
